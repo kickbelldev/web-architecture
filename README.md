@@ -27,7 +27,7 @@ src/
 │   │   │
 │   │   └── <slice>/...                        # Other route slices
 │   │
-│   ├── api/                                   # 🔌 Pages + Widgets layer
+│   ├── api/                                   # 🔌 API route handlers
 │   │
 │   ├─ _ui/                                    # Global UI segment
 │   │   ├── <segment>.tsx
